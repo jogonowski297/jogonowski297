@@ -2,7 +2,7 @@
 I am a computer science major at the University of Gdańsk<br>
 - I work regularly on my projects
 - I strenuously learn design patterns
-- I follow new technology looking for better solutions
+- I follow state-of-the-art technology looking for better solutions
 
 
 
