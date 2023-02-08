@@ -7,6 +7,7 @@ I am a computer science major at the University of Gdańsk<br>
 
 
 <br><b>Connect with me<b><br>
+  
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jogonowski/)<br>
 
 <br><b>Specializations<b><br>
