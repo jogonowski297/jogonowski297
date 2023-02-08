@@ -2,7 +2,7 @@
 I am a computer science student at the University of Gdańsk<br>
 - I work regularly on my projects
 - I learn design patterns intensively
-- I follow new technology in search of better solutions
+- I follow new technology looking for better solutions
 
 
 
