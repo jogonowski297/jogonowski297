@@ -1,7 +1,7 @@
 ### Hello World !!!!
 I am a computer science student at the University of Gdańsk<br>
-- I work profusely on my projects
-- I am learning design patterns intensively
+- I work regularly on my projects
+- Learn design patterns intensively
 - I follow new technology in search of better solutions
 
 
