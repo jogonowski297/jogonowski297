@@ -1,7 +1,7 @@
 ### Hello World !!!!
 I am a computer science major at the University of Gdańsk<br>
 - I work regularly on my projects
-- I learn design patterns intensively
+- I learn design patterns strenuously
 - I follow new technology looking for better solutions
 
 
