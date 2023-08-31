@@ -1,5 +1,5 @@
 ### Hello World!!!!
-I am a computer science major at the University of Gdańsk<br>
+I am a computer science major at the Gdańsk University of Technology<br>
 - I work regularly on my projects
 - I strenuously learn design patterns
 - I keep track of state-of-the-art technology looking for better solutions
