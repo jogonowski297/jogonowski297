@@ -16,7 +16,7 @@ I am a computer science major at the Gdańsk University of Technology<br>
           <li><b>Summary page of all works</b> </li>
           <li><b>Sync with remote database via API (proj 2.)</b> </li>
           <li><b>Working offline</b> </li>
-          <li><b>User roles</b> </li>
+          <li><b>User roles (admin, user and support for future ones)</b> </li>
         </ul>
     <li><b>Main Technologies:</b> .NET, MAUI, SQLite</li>
     <li><b>Version:</b> 1.0.x</li>
