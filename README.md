@@ -7,7 +7,7 @@ I am a computer science major at the Gdańsk University of Technology<br>
 
 <br><b>🚀 My Active Projects</b><br>
 
-<b>1. On Track </b><br>
+<b>1. On Track - PRIVATE </b><br>
 <ul>
     <li><b>Description:</b> Managing current work and monitoring them from a mobile device.</li>
     <li><b>Main Fetures:</b> </li>
@@ -23,7 +23,7 @@ I am a computer science major at the Gdańsk University of Technology<br>
     <li><b>API:</b> REST API for work management</li>
 </ul>
 
-<b>2. On Track API</b><br>
+<b>2. On Track API - PRIVATE </b><br>
 <ul>
     <li><b>Description:</b> API for managing On Track App.</li>
     <li><b>Main Technologies:</b> .NET, ASP.NET, MySQL, Linux</li>
