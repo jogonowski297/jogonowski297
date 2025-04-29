@@ -18,7 +18,12 @@ I am a computer science major at the Gdańsk University of Technology<br>
           <li><b>Working offline</b> </li>
           <li><b>User roles (admin, user and support for future ones)</b> </li>
         </ul>
-    <li><b>Main Technologies:</b> .NET, MAUI, SQLite</li>
+    <li><b>Main Technologies:</b></li>
+    <ul>
+      <li>.NET</li>
+      <li>MAUI</li>
+      <li>SQLite</li>
+    </ul>
     <li><b>Version:</b> 1.0.x</li>
     <li><b>API:</b> REST API for work management</li>
 </ul>
@@ -26,10 +31,40 @@ I am a computer science major at the Gdańsk University of Technology<br>
 <b>2. On Track API - PRIVATE </b><br>
 <ul>
     <li><b>Description:</b> API for managing On Track App.</li>
-    <li><b>Main Technologies:</b> .NET, ASP.NET, MySQL, Linux</li>
+    <li><b>Main Technologies:</b></li>
+     <ul>
+      <li>Home Assistant</li>
+      <li>.NET</li>
+      <li>ASP.NET</li>
+      <li>MySQL</li>
+      <li>Linux</li>
+    </ul>
     <li><b>Version:</b> 1.0.x</li>
 </ul>
 
+<b>3. Smart Home - PRIVATE</b><br>
+<ul>
+    <li><b>Description:</b> My project is a smart home automation system based on Home Assistant, enabling energy monitoring, remote control, and enhanced home security.</li>
+    <li><b>Main Fetures:</b> </li>
+    <ul>
+      <li>Energy consumption monitoring</li>
+      <li>Remote control of devices and switches</li>
+      <li>Home security system integration (alarms, sensors)</li>
+      <li>Real-time notifications and alerts</li>
+      <li>Custom automation rules</li>
+      <li>Local control without cloud dependency</li>
+    </ul>
+    <li><b>Main Technologies:</li>
+    <ul>
+      <li>Home Assistant</li>
+      <li>MQTT (Message Queuing Telemetry Transport)</li>
+      <li>ESPHome / ESP32 / ESP8266</li>
+      <li>Zigbee / Z-Wave protocols</li>
+      <li>Python / YAML / C for configuration</li>
+      <li>Wi-Fi / LAN network communication</li>
+      <li>Raspberry Pi 5</li>
+    </ul>
+</ul>
 
 <br><b>Contact with me<b><br>
   
