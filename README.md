@@ -66,6 +66,22 @@ I am a computer science major at the Gdańsk University of Technology<br>
     </ul>
 </ul>
 
+<b>4. CleanerXML - PRIVATE (Available for test in Demos repo)</b><br>
+<ul>
+    <li><b>Description:</b>Cleaning XML files of incomplete elements</li>
+    <li><b>Main Fetures:</b> </li>
+    <ul>
+      <li>Removing incomplete elements</li>
+      <li>Handling multiple files at once</li>
+      <li>Removing items from the list if added by mistake</li>
+      <li>Error handling</li>
+    </ul>
+    <li><b>Main Technologies:</li>
+    <ul>
+      <li>Avalonia</li>
+    </ul>
+</ul>
+
 <br><b>Contact with me<b><br>
   
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jogonowski/)<br>
